@@ -76,6 +76,14 @@ Not every row has every field — `price` and `wasPrice` can be `None` (seller-s
 MIT. See [LICENSE](LICENSE).
 
 
+## Tutorials
+
+Deep-dive write-up on dev.to:
+
+- [Track Walmart Rollback deals with Python and SQLite](https://dev.to/huynhtanan/track-walmart-rollback-deals-with-python-and-sqlite-5ckb)
+
+Full series (all four actors): [Apify + Python: scrapers, trackers, and Claude Desktop](https://dev.to/huynhtanan/series/45271).
+
 ## See also
 
 More repos from this account:
