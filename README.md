@@ -74,3 +74,12 @@ Not every row has every field — `price` and `wasPrice` can be `None` (seller-s
 ## License
 
 MIT. See [LICENSE](LICENSE).
+
+
+## See also
+
+More repos from this account:
+
+- [google-hotels-api](https://github.com/huynhtanan/google-hotels-api) - Python and Node.js examples for Google Hotels and Vacation Rentals
+- [amazon-bestsellers-tracker](https://github.com/huynhtanan/amazon-bestsellers-tracker) - Daily Amazon Best Sellers rank, price and ASIN tracking in 17 country stores
+- [google-hotels-mcp](https://github.com/huynhtanan/google-hotels-mcp) - MCP server for Claude Desktop: Google Hotels search, price calendar, and vacation rentals
