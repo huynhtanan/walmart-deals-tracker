@@ -80,7 +80,7 @@ MIT. See [LICENSE](LICENSE).
 
 Deep-dive write-up on dev.to:
 
-- [Track Walmart Rollback deals with Python and SQLite](https://dev.to/huynhtanan/track-walmart-rollback-deals-with-python-and-sqlite-5ckb)
+- [Track Walmart Rollback deals with Python and SQLite](https://dev.to/huynhtanan/track-walmart-rollback-deals-with-python-and-sqlite-47k2)
 
 Full series (all four actors): [Apify + Python: scrapers, trackers, and Claude Desktop](https://dev.to/huynhtanan/series/45271).
 
